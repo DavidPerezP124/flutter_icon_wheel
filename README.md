@@ -1,4 +1,4 @@
-# FLutter Icon Wheel 
+# Flutter Icon Wheel 
 
 An animated icon wheel made in flutter
 
