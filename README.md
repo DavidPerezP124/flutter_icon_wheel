@@ -4,4 +4,4 @@ An animated icon wheel made in flutter
 
 ## About
 
-An example of flutter animatios
+An example of flutter animations
