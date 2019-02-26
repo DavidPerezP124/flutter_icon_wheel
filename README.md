@@ -1,8 +1,7 @@
-# test_app
+# FLutter Icon Wheel 
 
-A new Flutter project.
+An animated icon wheel made in flutter
 
-## Getting Started
+## About
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+An example of flutter animatios
